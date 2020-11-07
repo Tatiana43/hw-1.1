@@ -33,6 +33,6 @@
 
 Тестирование производилось в следующем окружении:
 * ОС Windows 10 x64
-* OpenJDK 11
+* OpenJDK 11.0.9
 * [KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
 * Git
